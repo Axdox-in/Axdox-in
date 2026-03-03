@@ -1,50 +1,66 @@
-## 🏢 About AxDox
+## About
 
-AxDox is an AI-driven technology company building intelligent systems that automate business operations and accelerate digital growth. We design scalable AI solutions, n8n workflow automation, intelligent chatbots, and modern web platforms tailored for forward-thinking businesses.
-
-> "Automation is not the future. It is the present."
+AxDox builds intelligent automation systems that streamline operations, integrate platforms, and accelerate digital transformation. From AI chatbots to n8n workflow automation and scalable web platforms, we engineer solutions designed for efficiency, precision, and growth.
 
 ---
 
-## 💼 Services
+## Quotes
 
-AI Chatbot Development  
-Business Process Automation  
-n8n Workflow Automation  
-Custom AI & ML Solutions  
-Web & Application Development  
-API & CRM Integrations  
-Digital Process Optimization  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 
-## 📡 Reach AxDox
+## Core Capabilities
 
-🌐 **Website**  
-https://axdox.in  
-
-📩 **Email**  
-info@axdox.in  
-
-📱 **Social Channels**  
-Instagram • Threads • Facebook • LinkedIn • X  
-
-🔗 Instagram: https://www.instagram.com/axdox_team  
-🔗 Threads: https://www.threads.com/@axdox_team  
-🔗 Facebook: https://www.facebook.com/profile.php?id=61583021603485  
-🔗 LinkedIn: https://www.linkedin.com/company/axdox-in/  
-🔗 X: https://x.com/axdox_  
-🔗 WhatsApp Channel: https://whatsapp.com/channel/0029VbCPG83GJP8PrUaNAg0Q  
+- AI Chatbot Engineering  
+- n8n Workflow Automation  
+- Business Process Optimization  
+- Custom AI & ML Development  
+- Web & Application Platforms  
+- API & CRM Integrations  
 
 ---
 
-## 💬 Insight
+## Connect
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+<p align="center">
+
+<a href="https://axdox.in">
+  <img src="https://img.icons8.com/ios-filled/30/000000/domain.png"/>
+</a>
+
+<a href="mailto:info@axdox.in">
+  <img src="https://img.icons8.com/ios-filled/30/000000/new-post.png"/>
+</a>
+
+<a href="https://www.instagram.com/axdox_team">
+  <img src="https://img.icons8.com/ios-filled/30/000000/instagram-new.png"/>
+</a>
+
+<a href="https://www.threads.com/@axdox_team">
+  <img src="https://img.icons8.com/ios-filled/30/000000/threads.png"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61583021603485">
+  <img src="https://img.icons8.com/ios-filled/30/000000/facebook-new.png"/>
+</a>
+
+<a href="https://www.linkedin.com/company/axdox-in/">
+  <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
+</a>
+
+<a href="https://x.com/axdox_">
+  <img src="https://img.icons8.com/ios-filled/30/000000/twitterx.png"/>
+</a>
+
+<a href="https://whatsapp.com/channel/0029VbCPG83GJP8PrUaNAg0Q">
+  <img src="https://img.icons8.com/ios-filled/30/000000/whatsapp.png"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Metrics
 
-![](https://github-readme-stats.vercel.app/api?username=Axdox-in&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Axdox-in)
+![](https://github-readme-stats.vercel.app/api?username=Axdox-in&show_icons=true&hide_border=true)
