@@ -2,7 +2,7 @@
 
 ### AI • Automation • Intelligent Systems 
 
-
+---
 
 ## 🏢 About Axdox
 
