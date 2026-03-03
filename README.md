@@ -1,29 +1,26 @@
-# AXDOX 🚀
+# AXDOX 
 
-### AI • Automation • Intelligent Systems
+### AI • Automation • Intelligent Systems 
 
 ---
 
-## 🏢 About AxDox
+## 🏢 About Axdox
 
-AxDox is an AI-driven technology company focused on building intelligent systems that simplify complexity and accelerate digital growth.  
+Axdox is an AI-driven technology company focused on building intelligent systems that simplify complexity and accelerate digital growth.  We design scalable AI solutions 🤖, powerful n8n workflow automation 🔁, intelligent chatbots 💬, and modern web platforms 🌐 tailored for forward-thinking businesses.  Our approach combines strategy, engineering, and automation to create systems that work seamlessly, reduce manual effort, and unlock measurable efficiency.  
 
-We design scalable AI solutions 🤖, powerful n8n workflow automation 🔁, intelligent chatbots 💬, and modern web platforms 🌐 tailored for forward-thinking businesses.  
-
-Our approach combines strategy, engineering, and automation to create systems that work seamlessly, reduce manual effort, and unlock measurable efficiency.  
-
-> _"Engineering automation. Enabling growth."_
+> _"Less manual work.
+More smart growth."_
 
 ---
 
 ## 💼 Core Capabilities
 
-- 🤖 AI Chatbot Engineering  
-- 🔁 n8n Workflow Automation  
-- ⚙️ Business Process Optimization  
-- 🧠 Custom AI & ML Development  
-- 🌐 Web & Application Platforms  
-- 🔌 API & CRM Integrations  
+🤖 AI Chatbot Engineering  
+🔁 n8n Workflow Automation  
+⚙️ Business Process Optimization  
+🧠 Custom AI & ML Development  
+🌐 Web & Application Platforms  
+🔌 API & CRM Integrations  
 
 ---
 
@@ -47,7 +44,7 @@ Our approach combines strategy, engineering, and automation to create systems th
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.threads.com/@axdox_team">
-  <img src="https://img.icons8.com/color/40/threads.png" />
+  <img src="https://cdn.simpleicons.org/threads/000000" height="40"" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,6 +77,8 @@ Our approach combines strategy, engineering, and automation to create systems th
 
 ---
 
+
 ## 📊 GitHub Overview
 
-![](https://github-readme-stats.vercel.app/api?username=Axdox-in&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Axdox-in&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Axdox-in)
