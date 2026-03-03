@@ -15,12 +15,13 @@ More smart growth."_
 
 ## 💼 Core Capabilities
 
-🤖 AI Chatbot Engineering  
-🔁 n8n Workflow Automation  
-⚙️ Business Process Optimization  
-🧠 Custom AI & ML Development  
-🌐 Web & Application Platforms  
-🔌 API & CRM Integrations  
+🤖 AI Chatbots  
+🔁 n8n Automation  
+⚙️ Process Automation  
+🧠 Custom AI Solutions  
+🌐 Website Development  
+🔌 API & Software Integration  
+📈 Digital Optimization   
 
 ---
 
@@ -71,7 +72,7 @@ More smart growth."_
 
 ---
 
-## 💡 Automation Insight
+## 💡 Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
