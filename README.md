@@ -1,46 +1,55 @@
-# 🚀 AxDox
-
-Less manual work. More smart growth.
+# 🚀 AxDox  
+### Less manual work. More smart growth.
 
 ---
 
 ## 🏢 About AxDox
 
-AxDox is an AI-driven technology company focused on building intelligent systems that automate business processes and enhance digital growth. We specialize in AI-powered automation, intelligent chatbots, scalable web applications, n8n workflow automation, and data-driven solutions for modern businesses. Our mission is to reduce manual effort and create smart, scalable digital systems.  
+AxDox is an AI-driven technology company building intelligent systems that automate business processes and accelerate digital growth. We specialize in AI-powered automation, intelligent chatbots, scalable web applications, n8n workflow automation, and data-driven solutions designed for modern businesses.
 
-> "Building smarter systems for a more automated future."
-
----
-
-## 🌐 Connect With Us
-
-🔗 Instagram: https://www.instagram.com/axdox_team  
-🔗 Threads: https://www.threads.com/@axdox_team  
-🔗 Facebook: https://www.facebook.com/profile.php?id=61583021603485  
-🔗 LinkedIn: https://www.linkedin.com/company/axdox-in/  
-🔗 Twitter (X): https://x.com/axdox_  
-🔗 WhatsApp Channel: https://whatsapp.com/channel/0029VbCPG83GJP8PrUaNAg0Q  
-
-🌍 Website: https://axdox.in/  
-📩 Email: info@axdox.in  
+> _"Engineering automation. Enabling growth."_
 
 ---
 
-## 💼 Services
+## 💼 What We Do
 
-- 🤖 AI Chatbot Development  
-- ⚙️ Business Process Automation  
-- 🔁 n8n Workflow Automation Services  
-- 🧠 Custom AI & ML Solutions  
-- 🌐 Website & Web Application Development  
-- 🔌 API Development (Python / Flask)  
-- 📈 Digital Marketing Automation  
+| Core Expertise | Solutions |
+|---------------|-----------|
+| 🤖 AI Systems | Intelligent Chatbots & LLM Solutions |
+| 🔁 Automation | n8n Workflow Automation |
+| ⚙️ Integration | API & CRM Integrations |
+| 🌐 Platforms | Web & Full-Stack Development |
+| 📈 Growth | Digital & Process Optimization |
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 AxDox Network
 
-![](https://github-readme-stats.vercel.app/api?username=Axdox-in&theme=tokyonight&show_icons=true)  
+**Website**  
+https://axdox.in  
+
+**Email**  
+info@axdox.in  
+
+**Social Presence**  
+Instagram → https://www.instagram.com/axdox_team  
+Threads → https://www.threads.com/@axdox_team  
+Facebook → https://www.facebook.com/profile.php?id=61583021603485  
+LinkedIn → https://www.linkedin.com/company/axdox-in/  
+Twitter (X) → https://x.com/axdox_  
+WhatsApp Channel → https://whatsapp.com/channel/0029VbCPG83GJP8PrUaNAg0Q  
+
+---
+
+## 💡 AxDox Insight
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 📈 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=Axdox-in&show_icons=true&theme=tokyonight)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Axdox-in&theme=tokyonight)
 
 ---
