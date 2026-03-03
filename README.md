@@ -74,7 +74,7 @@ More smart growth."_
 
 ## 💡 Quotes
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
